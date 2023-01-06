@@ -6,6 +6,6 @@ Configuration settings I use across different systems
 
 ## Mac
 ### iTerm2
-[mac/apps/iterm2/default.json](iTerm2 default profile)
+[iTerm2 default profile](mac/apps/iterm2/default.json)
 
 ## Windows_VDI
